@@ -1,4 +1,5 @@
-# Customer Intelligence & CLV Segmentation Engine
+# E-Commerce-Segmentation-Churn-Analytics-Platform
+
 
 An end-to-end e-commerce customer intelligence and predictive segmentation system built on the [Online Retail dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail) (UCI Machine Learning Repository).
 
